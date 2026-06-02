@@ -6,7 +6,7 @@ I am also currently learning Software Engineering for future opportunities.
 
 Currently working on a password-vault website, Mainly for friends & family. That I hope to open source eventually.
 
-## Links:
+### Links:
 [About Me](https://dev.silent-innovations.com/) [Currently Down]
 
 Contact:
