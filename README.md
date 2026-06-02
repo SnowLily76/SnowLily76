@@ -4,6 +4,10 @@ I am a aspiring game dev and backend developer.
 Making anything from discord bots, web apps and games that comes to mind.
 I am also currently learning Software Engineering for future opportunities.
 
+I mainly code in Javascript at the moment, however I use node for all my backend. I have also used Lua, 
+making a profiling service with data attributes on Roblox and coded a few game projects for my Uni on Unity
+in C#, which im least experienced in. I plan to learn Java next.
+
 Currently working on a password-vault website, Mainly for friends & family. That I hope to open source eventually.
 
 ### Links:
