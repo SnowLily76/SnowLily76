@@ -1,9 +1,20 @@
-## Hi there 👋
+## Hoi there 👋
+
+I am a aspiring game dev and backend developer. 
+Making anything from discord bots, web apps and games that comes to mind.
+I am also currently learning Software Engineering for future opportunities.
+
+Currently working on a password-vault website, Mainly for friends & family. That I hope to open source eventually.
+
+Links:
+[About Me](https://dev.silent-innovations.com/) [Currently Down]
+
+Contact:
+Discord: snow4046
 
 <!--
-**SnowLily76/SnowLily76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to g, et you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
