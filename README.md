@@ -10,8 +10,9 @@ Links:
 [About Me](https://dev.silent-innovations.com/) [Currently Down]
 
 Contact:
-Discord: snow4046
 
+### Discord
+snow4046
 <!--
 
 Here are some ideas to g, et you started:
