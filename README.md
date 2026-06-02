@@ -9,8 +9,8 @@ Currently working on a password-vault website, Mainly for friends & family. That
 ### Links:
 [About Me](https://dev.silent-innovations.com/) [Currently Down]
 
-Contact:
-### Discord
+### Contact:
+Discord
 snow4046
 <!--
 
