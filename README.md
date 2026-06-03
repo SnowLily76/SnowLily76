@@ -11,7 +11,7 @@ in C#, which im least experienced in. I plan to learn Java next.
 Currently working on a password-vault website, Mainly for friends & family. That I hope to open source eventually.
 
 ### Links:
-[About Me](https://dev.silent-innovations.com/) [Currently Down]
+[About Me](https://dev.silent-innovations.com/)
 
 ### Contact:
 Discord
